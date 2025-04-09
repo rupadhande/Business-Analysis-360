@@ -31,6 +31,8 @@ A powerful Power BI dashboards that brings key metrics like Net Sales, Gross Mar
   - Gross Sales: ₹209.06M (YoY Change: +292.87%)
   - Net Invoice Sales: ₹161.62M (YoY Change: +305.42%)
   - Net Sales: ₹101.67M (YoY Change: +640.54%)
+    Fianance Dashboard
+  (https://github.com/rupadhande/Business-Analysis-360/blob/main/2.jpg)
 # Supply Chain View
 **Forecasting Metrics Made Easy**  
 A comprehensive Power BI dashboard that provides interactive insights into forecast accuracy, net error, and ABS error across customers and product segments.
@@ -48,6 +50,8 @@ A comprehensive Power BI dashboard that provides interactive insights into forec
 - **Customer Analysis**: Segment metrics by customers, including Forecast Accuracy %, Net Error %, and associated risk levels.
 - **Product Analysis**: Evaluate product segments like Accessories, Networking, Notebooks, etc., with detailed accuracy and risk metrics.
 - **Trend Graphs**: Observe changes in Forecast Accuracy % and Net Error over time for data-driven decisions.
+  Supply Chain Dashboard
+  (https://github.com/rupadhande/Business-Analysis-360/blob/main/3.jpg)
 
   # Sales View
 
@@ -62,6 +66,8 @@ This Power BI dashboard provides a detailed analysis of customer and product per
 - **Performance Matrix**: Visualize regions and countries on a scatter plot to assess Net Sales ($) and Gross Margin (%) performance.
 - **Unit Economics Overview**: Analyze critical metrics like Total Cost of Goods Sold, Net Sales, and Gross Margin for comprehensive financial evaluation.
 - **Dynamic Filtering**: Select regions, markets, and product categories using intuitive filters.
+Sales View Dashboard
+(https://github.com/rupadhande/Business-Analysis-360/blob/main/4.jpg)
 
   # Marketing View
   **Harnessing Data to Drive Business Excellence**  
@@ -85,8 +91,10 @@ This Power BI dashboard enables comprehensive analysis of customer, product, reg
 ### Performance Matrix
 - Visualize regional data with scatter plots for Net Sales ($) and Gross Margin (%).
 - Drill-down views for division-specific performance metrics.
+  Markwting View Dahsboard
+  (https://github.com/rupadhande/Business-Analysis-360/blob/main/5.jpg)
 
-  # Exwcutive View
+  # Executive View
   **Transforming Data into Actionable Insights**  
 This Power BI dashboard provides a rich and interactive visual exploration of business metrics, empowering stakeholders to make informed decisions.
 
@@ -116,17 +124,10 @@ Analyze performance across subzones with key indicators such as:
 - **Line Graph**: Yearly trends for revenue, gross margin %, net profit %, and PC market share %.
 - **Stacked Area Chart**: PC market share trends among competitors, including Atliq, BP, Dale, Innovo, and Pacer.
 - **Tables**: Top customers and products by revenue.
+  Executive View Dashboard
+  (https://github.com/rupadhande/Business-Analysis-360/blob/main/6.jpg)
 
 ### Interactive Dashboards for AtliQ hardware business
--Finance View
-Finance View ()
-- Supply Chain View
-  Supply Chain view()
-- Sales View
-  Sales View()
-- Marketing View
-  Marketing View()
--Executive View
- Executive View()
+See My Portfolio(https://www.novypro.com/profile_projects/rupali-barhate?Popup=memberProject&Data=1744079384793x840078542653992500)
 
 
