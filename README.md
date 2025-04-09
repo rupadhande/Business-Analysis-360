@@ -31,7 +31,7 @@ A powerful Power BI dashboards that brings key metrics like Net Sales, Gross Mar
   - Gross Sales: ₹209.06M (YoY Change: +292.87%)
   - Net Invoice Sales: ₹161.62M (YoY Change: +305.42%)
   - Net Sales: ₹101.67M (YoY Change: +640.54%)
-  ![Finance Dashboard](https://raw.githubusercontent.com/rupahande/Business-Analysis-360/main/2.jpg)
+  ![Finance Dashboard](https://github.com/rupadhande/Business-Analysis-360/blob/main/2.jpg)
 
 # Supply Chain View
 **Forecasting Metrics Made Easy**  
@@ -125,6 +125,6 @@ Analyze performance across subzones with key indicators such as:
   ![Executive View Dashboard](https://github.com/rupadhande/Business-Analysis-360/blob/main/6.jpg)
 
 ### Interactive Dashboards for AtliQ hardware business
-See My Portfolio(https://www.novypro.com/profile_projects/rupali-barhate?Popup=memberProject&Data=1744079384793x840078542653992500)
+![See Interactive Dashboard](https://www.novypro.com/profile_projects/rupali-barhate?Popup=memberProject&Data=1744079384793x840078542653992500)
 
 
